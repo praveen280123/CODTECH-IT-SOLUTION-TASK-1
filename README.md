@@ -1,10 +1,6 @@
 # CODTECH-IT-SOLUTION-TASK-1
 
-
-
-
-
-
+Name:Praveen Kumar V Company:CODTECH IT SOLUTIONS ID:CT4PP2967 Domain:PYTHON PROGRAMMING Duration:JUNE to JULY 2024 Mentor:Neela Santhosh Kumar
 
 StudentGrades Class:
 
